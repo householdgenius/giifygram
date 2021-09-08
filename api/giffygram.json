@@ -1,0 +1,41 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Emily",
+      "dateJoined": 1630513764399,
+      "Email": "me@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Bryan",
+      "dateJoined": 1630513764399,
+      "Email": "bryan@gmail.com"
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "userid": 1,
+      "timestamp": "01/01/2020",
+      "title": "this is so funny",
+      "imageURL": "https://media.giphy.com/media/kaIRoI3K7GdKTnI78w/giphy.gif"
+    },
+    {
+      "id": 2,
+      "userid": 2,
+      "timestamp": "01/01/2017",
+      "title": "this is so funny",
+      "imageURL": "https://media.giphy.com/media/kaIRoI3K7GdKTnI78w/giphy.gif"
+    },
+    {
+      "title": "",
+      "imageURL": "",
+      "description": "",
+      "userId": 1,
+      "timestamp": 1631128882555,
+      "id": 3
+    }
+  ],
+  "messages": []
+}
