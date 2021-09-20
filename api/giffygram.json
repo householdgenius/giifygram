@@ -15,26 +15,68 @@
   ],
   "posts": [
     {
-      "id": 1,
-      "userid": 1,
-      "timestamp": "01/01/2020",
-      "title": "this is so funny",
-      "imageURL": "https://media.giphy.com/media/kaIRoI3K7GdKTnI78w/giphy.gif"
-    },
-    {
-      "id": 2,
-      "userid": 2,
-      "timestamp": "01/01/2017",
-      "title": "this is so funny",
-      "imageURL": "https://media.giphy.com/media/kaIRoI3K7GdKTnI78w/giphy.gif"
-    },
-    {
-      "title": "",
-      "imageURL": "",
+      "title": "goodbye",
+      "imageURL": "https://media.giphy.com/media/fUYhyT9IjftxrxJXcE/giphy.gif",
       "description": "",
       "userId": 1,
-      "timestamp": 1631128882555,
-      "id": 3
+      "timestamp": 1632148759269,
+      "id": 4
+    },
+    {
+      "title": "another one",
+      "imageURL": "https://media.giphy.com/media/gE6IUBRWZd744/giphy.gif",
+      "description": "",
+      "userId": 1,
+      "timestamp": 1632149169960,
+      "id": 5
+    },
+    {
+      "title": "1",
+      "imageURL": "https://media.giphy.com/media/65ODCwM00NVmEyLsX3/giphy.gif",
+      "description": "",
+      "userId": 1,
+      "timestamp": 1632150130580,
+      "id": 6
+    },
+    {
+      "title": "fox",
+      "imageURL": "https://media.giphy.com/media/swPH6f77yLk2I/giphy.gif",
+      "description": "",
+      "userId": 1,
+      "timestamp": 1632150653882,
+      "id": 7
+    },
+    {
+      "title": "404",
+      "imageURL": "https://media.giphy.com/media/cO39srN2EUIRaVqaVq/giphy.gif",
+      "description": "",
+      "userId": 1,
+      "timestamp": 1632150678700,
+      "id": 8
+    },
+    {
+      "title": "blue",
+      "imageURL": "https://media.giphy.com/media/l4EpjqZiNz60OJkVG/giphy.gif",
+      "description": "",
+      "userId": 1,
+      "timestamp": 1632150702739,
+      "id": 9
+    },
+    {
+      "title": "jake",
+      "imageURL": "https://media.giphy.com/media/IMSq59ySKydYQ/giphy.gif",
+      "description": "",
+      "userId": 1,
+      "timestamp": 1632150728740,
+      "id": 10
+    },
+    {
+      "title": "lizard a",
+      "imageURL": "https://media.giphy.com/media/9MFsKQ8A6HCN2/giphy.gif",
+      "description": "",
+      "userId": 1,
+      "timestamp": 1632150745729,
+      "id": 11
     }
   ],
   "messages": []
